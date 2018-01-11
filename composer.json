@@ -6,7 +6,7 @@
     "require": {
         "php": "^7.1.3",
         "ext-iconv": "*",
-        "becklyn/yaml-parameters": "dev-test",
+        "becklyn/yaml-parameters": "dev-test#c4283c59657548100fcfbb403fb314b9bab0dbfc",
         "symfony/console": "^4.0",
         "symfony/flex": "dev-master",
         "symfony/framework-bundle": "^4.0",
