@@ -8,7 +8,7 @@
         "ext-iconv": "*",
         "becklyn/yaml-parameters": "dev-test#3564058dd5683db5912068e01d77811ccebf353c",
         "symfony/console": "^4.0",
-        "symfony/flex": "dev-interactivity#522c2bd0b91db5b75efe5730f34716be249f283b",
+        "symfony/flex": "dev-interactivity#e7f26ea27f7a6abc834405797422fff933c3b06d",
         "symfony/framework-bundle": "^4.0",
         "symfony/lts": "^4@dev",
         "symfony/yaml": "^4.0"
